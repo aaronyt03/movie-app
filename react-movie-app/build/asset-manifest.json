@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/movie-database/static/css/main.8530e2aa.chunk.css",
+    "main.js": "/movie-database/static/js/main.bcc54287.chunk.js",
+    "main.js.map": "/movie-database/static/js/main.bcc54287.chunk.js.map",
+    "runtime-main.js": "/movie-database/static/js/runtime-main.51fb19b8.js",
+    "runtime-main.js.map": "/movie-database/static/js/runtime-main.51fb19b8.js.map",
+    "static/js/2.c6394b6f.chunk.js": "/movie-database/static/js/2.c6394b6f.chunk.js",
+    "static/js/2.c6394b6f.chunk.js.map": "/movie-database/static/js/2.c6394b6f.chunk.js.map",
+    "index.html": "/movie-database/index.html",
+    "static/css/main.8530e2aa.chunk.css.map": "/movie-database/static/css/main.8530e2aa.chunk.css.map",
+    "static/js/2.c6394b6f.chunk.js.LICENSE.txt": "/movie-database/static/js/2.c6394b6f.chunk.js.LICENSE.txt",
+    "static/media/meh.13e504fc.svg": "/movie-database/static/media/meh.13e504fc.svg",
+    "static/media/movie-logo.7cd1aafc.png": "/movie-database/static/media/movie-logo.7cd1aafc.png",
+    "static/media/no-movie-poster.dc594cc6.jpg": "/movie-database/static/media/no-movie-poster.dc594cc6.jpg",
+    "static/media/thumbdown.6c6922b4.svg": "/movie-database/static/media/thumbdown.6c6922b4.svg",
+    "static/media/thumbup.2d0dd251.svg": "/movie-database/static/media/thumbup.2d0dd251.svg",
+    "static/media/tmdb-logo.bf7f470b.svg": "/movie-database/static/media/tmdb-logo.bf7f470b.svg",
+    "static/media/video.dc236b09.svg": "/movie-database/static/media/video.dc236b09.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51fb19b8.js",
+    "static/js/2.c6394b6f.chunk.js",
+    "static/css/main.8530e2aa.chunk.css",
+    "static/js/main.bcc54287.chunk.js"
+  ]
+}
